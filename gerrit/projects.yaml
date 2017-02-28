@@ -5454,6 +5454,8 @@
   acl-config: /home/gerrit2/acls/openstack/openstackdocstheme.config
 - project: openstack/openstack-health
   description: OpenStack Health Dashboard
+- project: openstack/openstack-helm
+  description: Helm charts for deploying OpenStack.
 - project: openstack/openstack-manuals
   options:
     - translate

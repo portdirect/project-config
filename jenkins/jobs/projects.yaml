@@ -9015,6 +9015,12 @@
       - nodejs4-jobs
 
 - project:
+    name: openstack-helm
+
+    jobs:
+      - python-jobs
+
+- project:
     name: openstack-manuals
 
     jobs:
